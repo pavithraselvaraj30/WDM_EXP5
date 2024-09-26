@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
 
 ### Output:
-![Screenshot 2024-09-26 144107](https://github.com/user-attachments/assets/5add7924-22ea-474a-9d27-911198bbf8e7)
+![Screenshot 2024-09-26 144546](https://github.com/user-attachments/assets/8b7b3c4c-8c44-4cb6-bf95-5f0346fb2ff8)
 
 
 ### Result:
